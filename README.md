@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Victor Alexander and I am a React Engineer 👋
 
 <!--
 **VictoryAlexander/VictoryAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Full Stack React developer.
+
+In 2022 I enrolled in a 8 month Full Stack Developer online Bootcamp at TripleTen, started in August 2022. 
+
+## Current Projects
+Frontend UI project for EdTonomy
+Personal Portfolio
