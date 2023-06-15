@@ -18,6 +18,6 @@ I am a Full Stack React developer.
 
 In 2022 I enrolled in a 8 month Full Stack Developer online Bootcamp at TripleTen, started in August 2022. 
 
-## Current Projects
-Frontend UI project for EdTonomy
-Personal Portfolio
+Current Projects
+* Frontend UI project for EdTonomy
+* Personal Portfolio
