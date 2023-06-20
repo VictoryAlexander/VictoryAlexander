@@ -19,5 +19,5 @@ I am a Full Stack React developer.
 In 2022 I enrolled in a 8 month Full Stack Developer online Bootcamp at TripleTen, started in August 2022. I have learned some neat skills like html/css, javascript, react, node.js, express and mongodb. My next part of my journey will be learning Vite and other tools with my EdTonomy externship opportunity. Check out my latest full stack project, the News Explorer App.
 
 Current Projects
-* Frontend UI project for EdTonomy
-* Personal Portfolio
+* Frontend UI project for EdTonomy : https://github.com/jahorwitz/edtonomy
+* Personal Portfolio : https://github.com/VictoryAlexander/portfolio
