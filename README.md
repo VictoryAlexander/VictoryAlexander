@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Full Stack React developer.
+I am a Full Stack React developer. I used to be a mechanical engineer who built UI for measurement systems, but now my passion for building UI led me to software engineering.
 
-In 2022 I enrolled in a 8 month Full Stack Developer online Bootcamp at TripleTen, started in August 2022. I have learned some neat skills like html/css, javascript, react, node.js, express and mongodb. My next part of my journey will be learning Vite and other tools with my EdTonomy externship opportunity. Check out my latest full stack project, the News Explorer App.
+In 2022 I enrolled in a 8 month Full Stack Developer online Bootcamp at TripleTen, started in August 2022. My next part of my journey will be learning Vite and other tools with my EdTonomy externship opportunity. Check out my latest full stack project, the News Explorer App.
+
+Hard skills include: HTML/CSS, javascript, React, Node, NoSQL, MongoDB, Express, Google cloud, Figma, Vite, Tailwind css.
 
 Current Projects
 * Frontend UI project for EdTonomy : https://github.com/jahorwitz/edtonomy
