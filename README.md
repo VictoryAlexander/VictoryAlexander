@@ -20,7 +20,5 @@ In 2022 I enrolled in a 8 month Full Stack Developer online Bootcamp at TripleTe
 
 Hard skills include: HTML/CSS, javascript, React, Node, NoSQL, MongoDB, Express, Google cloud, Figma, Vite, Tailwind css.
 
-Current Projects
-* Frontend UI project for EdTonomy : https://github.com/jahorwitz/edtonomy
 * Personal Portfolio : https://github.com/VictoryAlexander/portfolio
 * Pathfinder 2e Encounter Builder : https://github.com/VictoryAlexander/pf2e-encounter-builder
